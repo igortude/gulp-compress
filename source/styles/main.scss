@@ -1,0 +1,8 @@
+@use 'vars';
+
+body {
+    background-color: vars.$corPrincipal;
+    h1 {
+        color: vars.$corSec;
+    }
+}
